@@ -1,0 +1,246 @@
+body {
+    background-color:gray;
+}
+.aspect-ratio {
+    aspect-ratio: 2/3;
+}
+.france {
+    width: 100px;
+    padding: 5px;
+}
+
+.blue {
+    background-color: #002495;
+    position: relative;
+    width: 100px;
+    height:50px;
+    bottom: 150px;
+}
+.white {
+    background-color: #ffffff;
+    position: relative;
+    width: 100px;
+    height:50px;
+    bottom: 150px
+}
+.red {
+    background-color: #ed2938;
+    position: relative;
+    width: 100px;
+    height:50px;
+    bottom: 150px;
+}
+.germany {
+    width: 100px;
+    padding: 5px;
+}
+
+.black {
+    background-color: black;
+    position: relative;
+    width: 100px;
+    height: 50px;
+    bottom: 150px;
+}
+.german-red {
+    background-color: #de0002;
+    position: relative;
+    width: 100px;
+    height: 50px;
+    bottom: 150px;
+}
+.gold {
+    background-color: #ffce00;
+    position: relative;
+    width: 100px;
+    height: 50px;
+    bottom: 150px;
+}
+
+.madagascar {
+    width: 100px;
+    padding: 5px;
+}
+
+.mad-white {
+    background-color:#ffffff;
+    position: relative;
+    width: 100px;
+    height: 50px;
+    bottom: 150px;
+}
+.mad-red {
+    background-color: #fc3e32;
+    position: relative;
+    width: 100px;
+    height: 50px;
+    bottom: 150px;
+}
+.mad-green {
+    background-color: #007e39;
+    position: relative;
+    width: 100px;
+    height: 50px;
+    bottom: 150px;
+}
+.switzerland {
+    width: 100px;
+    padding: 5px;
+}
+.swiss-red1 {
+    background-color: #ff0002;
+    position: relative;
+    width: 100px;
+    height: 150px;
+    bottom: 150px;
+}
+.line-vertical {
+    background-color: #ffffff;
+    position: relative;
+    width: 15px;
+    bottom: 245px;
+    height: 50px;
+    left: 43px;
+}
+.line-horizontal {
+    background-color: #ffffff;
+    position: relative;
+    width: 50px;
+    height: 15px;
+    rotate: 50%;
+    bottom: 278px;
+    left: 25px;
+    
+}
+.sweden {
+    width: 100px;
+    padding: 5px;
+}
+.swe-blue {
+    background-color: #0269a6;
+    position: relative;
+    width: 100px;
+    height: 150px;
+    bottom: 150px;
+}
+.cross-vertical {
+    background-color: #fecc00;
+    position: relative;
+    width: 15px;
+    bottom: 300px;
+    height: 150px;
+    left: 43px;
+}
+.cross-horizontal {
+    background-color: #fecc00;
+    position: relative;
+    width: 100px;
+    height: 15px;
+    rotate: 50%;
+    bottom: 400px;
+}
+.gambia {
+    width: 100px;
+    padding: 5px;
+}
+
+.gam-blue {
+    background-color: #0d1d8b;
+    position: relative;
+    width: 30px;
+    height: 150px;
+    bottom: 450px;
+    left: 30px;
+}
+.gam-green {
+    background-color: #3b7827;
+    position: relative;
+    width: 35px;
+    height: 150px;
+    bottom: 600px;
+}
+.gam-red {
+    background-color: #ce1127;
+    position: relative;
+    width: 35px;
+    height: 150px;
+    bottom: 300px;
+    left: 60px
+}
+.white-line1 {
+    background-color: #ffffff;
+    position: relative;
+    width: 5px;
+    height: 150px;
+    bottom: 750px;
+    left: 30px;
+    
+}
+.white-line2 {
+    background-color: #ffffff;
+    position: relative;
+    width: 5px;
+    height: 150px;
+    bottom: 900px;
+    left: 60px; 
+}
+.japan {
+    width: 100px;
+    padding: 5px;
+}
+.circle {
+    background-color: #bc022c;
+    position: relative;
+    width: 65px;
+    height: 65px;
+    border-radius: 50%;
+    bottom: 1005px;
+    left: 17px;
+}
+.jap-white {
+    background-color: #ffffff;
+    position: relative;
+    width: 100px;
+    height: 150px;
+    bottom: 900px;
+}
+.niger {
+    position: relative;
+    width: 100px;
+    padding: 5px;
+}
+.small-circle {
+    background-color: #e15307;
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    bottom: 0;
+    left: 37px;
+}
+.niger-white {
+    background-color: #ffffff;
+    position: absolute;
+    width: 33px;
+    height: 150px;
+    bottom: 0;
+    left: 33px;
+
+}
+.niger-orange {
+    background-color: #e15307;
+    position: absolute;
+    width: 33px;
+    height: 150px;
+    bottom: 0;
+    left: 67px;
+
+}
+.niger-green {
+    background-color: #10af2a;
+    position: absolute;
+    width: 33px;
+    height: 150px;
+    bottom: 0;
+}
+

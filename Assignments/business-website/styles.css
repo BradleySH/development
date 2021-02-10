@@ -1,0 +1,9 @@
+* {
+    box-sizing: border-box;
+    padding: 5px;
+}
+header {
+    background-color: rgb(238, 219, 115);
+    text-decoration: none;
+    text-transform: uppercase;
+}
